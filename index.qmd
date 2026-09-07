@@ -1,3 +1,7 @@
 ---
 title: "A New Website"
 ---
+A New Website
+This is a Quarto website.
+
+To learn more about Quarto websites visit httpd://quarto.org/docs/websites/
